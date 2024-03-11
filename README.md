@@ -1,7 +1,7 @@
-# Library Management-System
+# Library-Management-System
  It is a simple library management system using OOPS concept. It allows users to add new books, borrow books, return books, and view available books.
 
- # Title: Library Management System
+ # Title: Library-Management System
 The Library Management System is a simple Java program that allows users to manage a library's book inventory. Users can add new books, borrow books, return books, and view available books.
 
 # Usage
